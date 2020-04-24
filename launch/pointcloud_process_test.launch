@@ -1,0 +1,9 @@
+<launch>
+
+	<node pkg="pointcloud_process" name="pointcloud_process" type="pointcloud_process"  output="screen"  >
+	</node>
+	<node pkg="pointcloud_process" name="lidar_model_generate" type="lidar_model_generate"  >
+	</node>
+	<!-- <node pkg="pointcloud_process" name="target_tracking_show" type="target_tracking_show"  >
+	</node> -->
+</launch>

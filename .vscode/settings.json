@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.ipp": "cpp",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "functional": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "cstdlib": "cpp",
+        "deque": "cpp",
+        "iostream": "cpp",
+        "unordered_map": "cpp",
+        "ostream": "cpp"
+    }
+}

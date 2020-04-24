@@ -1,0 +1,27 @@
+std_msgs/Header header
+int32   id
+uint8   day
+uint8   month
+uint32  year
+float64  UTC
+float64 heading
+float64 pitch
+float64 roll
+float64 velocity
+float64 velocity_e
+float64 velocity_n
+float64 velocity_u
+float64 latitude
+float64 longitude
+float64 altitude
+float64 posE
+float64 posN
+float64 posU
+uint8 rtkState
+float64 accelerate_x
+float64 accelerate_y
+float64 accelerate_z
+float64 angleVelocity_x
+float64 angleVelocity_y
+float64 angleVelocity_z
+uint8 NSV # number of GNSS satelite deceted
